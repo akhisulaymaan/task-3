@@ -1,1 +1,1 @@
-# task-3
+#javascript-task-3
